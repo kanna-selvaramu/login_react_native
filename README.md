@@ -7,13 +7,13 @@ A small bottom footer is coded, to understand flexbox and navigation concepts in
 
 # Demo Screenshots
 
-![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/master/screenshot/login.png) 
+![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/master/screenshots/login.png) 
 
-![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/master/screenshot/error.png) 
+![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/master/screenshots/error.png) 
 
-![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/screenshot/home.png) 
+![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/screenshots/home.png) 
 
-![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/screenshot/search.png)
+![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/screenshots/search.png)
 
-![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/screenshot/feed.png)
+![alt text](https://raw.githubusercontent.com/kanna-selvaramu/login_react_native/screenshots/feed.png)
 
